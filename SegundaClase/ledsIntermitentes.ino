@@ -1,3 +1,4 @@
+//Link dek Video https://youtube.com/shorts/6JUNAI2reHY?si=kJ2Nkb7qLxDXVNNu
 int l1 = 12;
 int l2 = 13;
 
