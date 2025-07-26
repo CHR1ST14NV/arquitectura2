@@ -1,3 +1,4 @@
+//LINK DEL VIDEO https://youtube.com/shorts/Or1AfXYJM5A?si=X_4SDMiSSa5uhImo
 int l1 = 12;
 int k = 3;
 
